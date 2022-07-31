@@ -2,7 +2,9 @@
 ## 📫 内容
 主要记录一些工作上使用的 shell 脚本。
   
-  
+## 参考
+[实用脚本](https://github.com/fengyuhetao/shell)  
+
 ---
 
 # 👋 Introduction
