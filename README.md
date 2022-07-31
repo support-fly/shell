@@ -4,6 +4,8 @@
   
 ## 参考
 [实用脚本](https://github.com/fengyuhetao/shell)  
+[系统分析命令和脚本](https://github.com/zhwj184/shell-work)  
+[常见命令参考](https://github.com/aqzt/kjyw/tree/master/shell)  
 
 ---
 
